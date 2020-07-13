@@ -6,7 +6,7 @@ interface CardProps {
 
 export const Container = styled.div`
   width: 100%;
-  max-width: 1120px;
+  max-width: 920px;
   margin: 0 auto;
   padding: 40px 20px;
 `;
